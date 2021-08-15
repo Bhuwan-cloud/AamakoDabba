@@ -58,3 +58,10 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # devise 
 gem 'devise'
 
+gem 'rails_admin', '~> 2.0'
+
+
+gem 'airbrake'
+
+gem 'cancancan'
+
